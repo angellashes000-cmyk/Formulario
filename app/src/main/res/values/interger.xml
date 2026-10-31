@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <interger name="name_max_legth">10</interger>
+</resources>
